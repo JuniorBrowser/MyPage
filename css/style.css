@@ -1,0 +1,27 @@
+table,
+        th,
+        td,tr {
+            border: 3px dotted red;
+            border-collapse: collapse;
+            color: white;
+
+
+        }
+        p{
+            color: white;
+        }
+        h1{
+            color: yellow;
+        }
+        body{
+            background-color: #FCF9be;
+            font-family: 'Poppins', sans-serif;
+        }
+        hr{
+            border-style: dotted none none none;
+            border-width: 5px;
+            width: 5%;
+        }
+.azul-20{
+    color: blue;
+}
